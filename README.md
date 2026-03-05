@@ -59,4 +59,16 @@ Cada inimigo possui atributos únicos, exigindo diferentes estratégias:
 ➱ Baixe este repositório e abra o arquivo project.greenfoot.
 
 ➱ Clique em Compile e depois em Run.
- 
+
+## 🤝 Créditos
+
+  *ASSETS VISUAIS:*
+- Sprites e Cenários: CraftPix (https://craftpix.net)
+- Tilesets: Zack Alvarado (https://opengameart.org/content/platformer-tilesets)
+- Imagens UI: Freepik
+
+*ÁUDIO:*
+- Efeitos Sonoros e Músicas: Pixabay (Royalty Free)
+
+*DESENVOLVIMENTO:*
+Projeto acadêmico para o curso de Sistemas de Informação.
