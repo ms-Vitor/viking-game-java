@@ -50,7 +50,7 @@ Cada inimigo possui atributos únicos, exigindo diferentes estratégias:
 * ❤️ **Coração:** Restaura completamente a saúde do Viking.
 
 ## 💻 Demonstração 
-![Gameplay Vikings vs Goblins](viking_game/media/viking_game)
+![Gameplay Vikings vs Goblins](viking_game/media/viking_game/gameplay.gif)
 
 ## 🚀 Como Rodar o Projeto
 
